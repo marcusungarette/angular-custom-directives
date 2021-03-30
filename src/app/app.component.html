@@ -21,5 +21,9 @@
 
 <div>
   <h4>{{ images[currentPage].title }}</h4>
-  <img [src]="images[currentPage].url" [alt]="images[currentPage].title" />
+  <img
+    class="img-fluid"
+    [src]="images[currentPage].url"
+    [alt]="images[currentPage].title"
+  />
 </div>
