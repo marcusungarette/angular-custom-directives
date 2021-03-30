@@ -9,6 +9,5 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 [2] - Inside this project folder run `npm install`.
 
 [3] - Run `ng serve` or `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-Steps Angular do to generate password :
 
 ![Pagination Demo Gif](src/assets/pagination-demo.gif "Pagination Demo Gif")
